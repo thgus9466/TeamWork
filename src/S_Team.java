@@ -8,9 +8,11 @@ public class S_Team {
 	
 	private void TeamLeader()
 	{
-		System.out.println("Leader : 32121875 ±èÇöÀÏ");
+		System.out.println("Leader : 32121875 Â±Ã¨Ã‡Ã¶Ã€Ã");
 	}
-	//private void Engineer() 
+	private void Engineer(
+		System.out.println("Engineer : 32151501 sohyun);
+	)
 	//private void Reverser()
 	//private void Supporter()
 	
