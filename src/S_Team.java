@@ -8,7 +8,7 @@ public class S_Team {
 	
 	private void TeamLeader()
 	{
-		System.out.println("Leader : 32121875 ±èÇöÀÏ");
+		System.out.println("Leader : 32121875 Â±Ã¨Ã‡Ã¶Ã€Ã");
 	}
 	//private void Engineer() 
 	//private void Reverser()
@@ -17,7 +17,7 @@ public class S_Team {
 	public static void main(String[] args) {
 		S_Team Team = new S_Team();
 		Team.TeamLeader();
-		//TEam.Engineer();
+		TEam.Engineer();
 		//Team.Reverser();
 		//Team.Supporter();		
 	}	
